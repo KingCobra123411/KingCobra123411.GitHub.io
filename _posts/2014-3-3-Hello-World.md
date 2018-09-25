@@ -4,9 +4,9 @@ title: Blog 1
 ---
 
 
-Title
+Title:
 First lesson
-Date
+:Date
 13/9/18
 
 Starting point:
@@ -18,18 +18,17 @@ I guess
 
 
 How did you use your learning habits this week?
-Persevering
+Persevering:
 I didn’t understand for a while but learned.
-Questioning?
+Questioning?:
 I asked nothing
-Independence
+Independence:
 We worked in groups
-Reflecting
-
-
-Engagement
+Reflecting:
+This is reflecting
+Engagement:
 I did my task.
-What could have gone better in your learning?
+What could have gone better in your learning?:
 Understood it a bit better
-What changes do you need to make to improve your learning next time?
+What changes do you need to make to improve your learning next time?:
 Read through the booklet better.
